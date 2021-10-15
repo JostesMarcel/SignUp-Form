@@ -1,0 +1,17 @@
+body{
+  height: auto!important;
+  margin: auto;
+  width: 50%;
+}
+
+/*Klasse von Signup Div*/
+.Signup-Form{
+max-width:10em;
+  max-height:15em;
+  padding: 1em;/*polsteuerung*/
+}
+/*style für eingabefeld*/
+.imptext{
+  padding: 1em;
+  margin: 1em;
+}
